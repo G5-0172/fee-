@@ -1,0 +1,14 @@
+Q1. What do you know about functions?
+Ans- Function is a resuable and organized block of code used in performing a particular task.
+
+Q2. What is layout?
+Ans- Layout is a structure or alignment of elements in a webpage. 
+
+Q3. What do you know about flex layout?
+Ans- It is a property used to arrange elements inside a container in row or column.
+
+Q4. What is the need of grid layout?
+Ans- It is a property used to arrange elements inside a container in a row and column both.
+
+Q5. What is the use of GitHub?
+Ans- GitHub is a platform used to store, manage, and collaborate on code projects.
